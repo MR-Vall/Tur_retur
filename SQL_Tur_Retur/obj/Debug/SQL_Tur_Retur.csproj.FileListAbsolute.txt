@@ -1,0 +1,11 @@
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\bin\Debug\SQL_Tur_Retur.exe.config
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\bin\Debug\SQL_Tur_Retur.exe
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\bin\Debug\SQL_Tur_Retur.pdb
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.csproj.AssemblyReference.cache
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.csproj.SuggestedBindingRedirects.cache
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.Form1.resources
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.Properties.Resources.resources
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.csproj.GenerateResource.cache
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.csproj.CoreCompileInputs.cache
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.exe
+C:\Users\marob\source\repos\SQL_Tur_Retur\SQL_Tur_Retur\obj\Debug\SQL_Tur_Retur.pdb
